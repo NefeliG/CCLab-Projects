@@ -237,7 +237,7 @@ function draw() {
     //Cheese(100, 100);
 
     stroke(255, 229, 204);
-    fill(255, 255, 255);
+    fill(255, 165, 0);
 
     beginShape();
     vertex(68, 4); //(x,y)
