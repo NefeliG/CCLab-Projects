@@ -1,0 +1,41 @@
+.container1{
+  display: inline-block;
+  font-family: monospace;
+}
+h1{
+  font-size: 28px;
+    font-family: monospace;
+}
+
+.second{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#button1{
+  font-size: 25px;
+}
+
+
+h2 {
+  font-family: monospace;
+font-size: 18px;
+line-height: 200%
+}
+
+h3 {
+  font-family: monospace;
+  font-size: 28px;
+  line-height: 200%
+}
+
+
+h4 {
+  font-family: monospace;
+font-size: 18px;
+line-height: 200%
+}
+
+.pic{
+  display: inline-block;
+}

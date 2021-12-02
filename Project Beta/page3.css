@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#move{
+  position: absolute;
+  margin-left: 500px;
+  width: 500px;
+  top: 500px;
+}
+
+.real{
+  position: absolute;
+  top: 200px;
+}
+
+.anthema{
+  text-align: right;
+}
+
+.butt{
+  position: absolute;
+}
